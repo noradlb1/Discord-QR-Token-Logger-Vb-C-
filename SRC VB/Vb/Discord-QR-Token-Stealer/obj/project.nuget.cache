@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "siiA6wPqHVm13d/9+uy4kXozTSTCfBBS/JIyZKPwEbmiP/b7FoT02aNMeRjNkG2o4Yz1OH9PgjTgLD2SrPmw4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MONSTERMC\\Desktop\\New folder\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\cef.redist.x64\\100.0.23\\cef.redist.x64.100.0.23.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\cef.redist.x86\\100.0.23\\cef.redist.x86.100.0.23.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\cefsharp.common\\100.0.230\\cefsharp.common.100.0.230.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\cefsharp.winforms\\100.0.230\\cefsharp.winforms.100.0.230.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

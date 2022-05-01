@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MONSTERMC\\Desktop\\New folder\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MONSTERMC\\Desktop\\New folder\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTERMC\\Desktop\\New folder\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.vbproj",
+        "projectName": "Discord-QR-Token-Stealer",
+        "projectPath": "C:\\Users\\MONSTERMC\\Desktop\\New folder\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.vbproj",
+        "packagesPath": "C:\\Users\\MONSTERMC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTERMC\\Desktop\\New folder\\Discord-QR-Token-Stealer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MONSTERMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CefSharp.WinForms": {
+              "target": "Package",
+              "version": "[100.0.230, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

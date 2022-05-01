@@ -1,0 +1,7 @@
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Discord-QR-Token-Stealer.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Discord_QR_Token_Stealer.infoPanel.resources
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Discord_QR_Token_Stealer.qrGrabber.resources
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Discord_QR_Token_Stealer.setHook.resources
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Discord-QR-Token-Stealer.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder\Discord-QR-Token-Stealer\obj\Debug\Discord-QR-Token-Stealer.vbproj.CoreCompileInputs.cache

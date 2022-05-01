@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MONSTERMC\\Downloads\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MONSTERMC\\Downloads\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTERMC\\Downloads\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.csproj",
+        "projectName": "Discord-QR-Token-Stealer",
+        "projectPath": "C:\\Users\\MONSTERMC\\Downloads\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Stealer\\Discord-QR-Token-Stealer.csproj",
+        "packagesPath": "C:\\Users\\MONSTERMC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTERMC\\Downloads\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Logger-master\\Discord-QR-Token-Stealer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MONSTERMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CefSharp.WinForms": {
+              "target": "Package",
+              "version": "[92.0.251, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
